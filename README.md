@@ -23,7 +23,7 @@ The architecture consists of the following key components:
 - **Amazon RDS**: For relational database storage.
 - **S3**: For static content storage.
 
-Architecture Diagram
+Architecture Diagram:
 
 ![image](https://github.com/user-attachments/assets/f161ba5e-3ecf-45ac-9359-c099f2e58c66)
 
@@ -33,5 +33,5 @@ Architecture Diagram
 - AWS account with administrative access.
 
 ## Deployment
-Follow the detailed instructions in the workshop guide to manually create the AWS components (VPC, EC2, RDS, S3, ELB).
-Deploy your web application and set up the necessary security configurations.
+1. Follow the detailed instructions in the workshop guide to manually create the AWS components (VPC, EC2, RDS, S3, ELB).
+2. Deploy your web application and set up the necessary security configurations.
