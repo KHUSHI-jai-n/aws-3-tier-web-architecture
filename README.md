@@ -33,5 +33,5 @@ Architecture Diagram:
 - AWS account with administrative access.
 
 ## Deployment
-1. Follow the detailed instructions in the workshop guide to manually create the AWS components (VPC, EC2, RDS, S3, ELB).
-2. Deploy your web application and set up the necessary security configurations.
+- Follow the detailed instructions in the workshop guide to manually create the AWS components (VPC, EC2, RDS, S3, ELB).
+- Deploy your web application and set up the necessary security configurations.
