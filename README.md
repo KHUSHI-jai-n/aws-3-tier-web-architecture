@@ -7,8 +7,7 @@ This project is based on an AWS workshop and implements a three-tier web archite
 1. [Project Overview](#project-overview)
 2. [Architecture](#architecture)
 3. [Prerequisites](#prerequisites)
-4. [AWS Services Used](#aws-services-used)
-5. [Deployment](#deployment)
+4. [Deployment](#deployment)
 
 ## Project Overview
 This project follows AWS best practices for deploying a three-tier architecture in a cloud environment. It consists of:
@@ -29,7 +28,7 @@ Architecture Diagram
 ![image](https://github.com/user-attachments/assets/f161ba5e-3ecf-45ac-9359-c099f2e58c66)
 
 
-### Prerequisites
+## Prerequisites
 - Basic knowledge of AWS services (VPC, EC2, RDS, S3).
 - AWS account with administrative access.
 
